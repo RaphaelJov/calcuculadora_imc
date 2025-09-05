@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Calculadora IMC</title>
+</head>
+<body>
+    <form id="form">
+        <p>Informe sua altura</p>
+        <input type="text" id="altura" required autofocus placeholder="Ex: 1.75">
+        
+        <p>Informe seu peso</p>
+        <input type="number" id="peso" required placeholder="Ex: 70">
+
+        <input type="submit" value="ok" id="submit">
+        <button type="reset" id="limparResultado">Limpar</button>
+
+        <p id="resultado"></p>
+    </form>    
+
+    <script src="app.js"></script>
+</body>
+</html>
