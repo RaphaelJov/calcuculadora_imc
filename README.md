@@ -27,13 +27,10 @@ Uma **Calculadora de IMC (Índice de Massa Corporal)** simples e intuitiva, dese
 
 ## Como Usar
 
-1. Clone este repositório:
-
-
-2. Abra o arquivo `index.html` no seu navegador preferido.
-3. Insira sua altura (em metros) e peso (em kg).
-4. Clique em **Calcular** para ver seu IMC e a classificação.
-5. Use o botão **Limpar** para resetar os campos e o resultado.
+1. Abra o site clicando no link: [https://raphaeljov.github.io/calcuculadora_imc/](https://raphaeljov.github.io/calcuculadora_imc/)
+2. Insira sua altura (em metros) e peso (em kg).
+3. Clique em **Calcular** para ver seu IMC e a classificação.
+4. Use o botão **Limpar** para resetar os campos e o resultado.
 
 ---
 
@@ -52,8 +49,10 @@ Este projeto está licenciado sob a [Licença MIT](./LICENSE) - sinta-se à vont
 
 ## Contato
 
-Desenvolvido por Rafael Jov 👋  
-[GitHub](https://github.com/seu-usuario) | [LinkedIn](https://linkedin.com/in/seu-perfil)  
-Email: seu-email@exemplo.com
+Desenvolvido por Raphael Jovino 👋
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RaphaelJov)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphael-jovino-desenvolvedor-programador-analista/)
+
 
 ---
