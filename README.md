@@ -18,9 +18,10 @@ Uma **Calculadora de IMC (Índice de Massa Corporal)** simples e intuitiva, dese
 
 ## Tecnologias Utilizadas
 
-- JavaScript para lógica do cálculo e validação.
-- HTML semântico para estrutura do formulário.
-- CSS moderno para estilo visual agradável e responsivo.
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)](#)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)](#)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)](#)
+
 
 ---
 
@@ -38,10 +39,8 @@ Uma **Calculadora de IMC (Índice de Massa Corporal)** simples e intuitiva, dese
 
 ## Captura de Tela
 
-![Screenshot do Aplicativo](./<img width="1913" height="864" alt="image" src="https://github.com/user-attachments/assets/8bf2f674-e646-4797-8303-fadecb869179" />
-)
+<img width="1913" height="864" alt="image" src="https://github.com/user-attachments/assets/8bf2f674-e646-4797-8303-fadecb869179" />
 
-*(Obs: Coloque uma imagem de captura do seu app aqui para melhorar a apresentação)*
 
 ---
 
