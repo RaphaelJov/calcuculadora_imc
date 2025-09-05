@@ -27,7 +27,7 @@ Uma **Calculadora de IMC (Índice de Massa Corporal)** simples e intuitiva, dese
 
 ## Como Usar
 
-1. Abra o site clicando no link: [https://raphaeljov.github.io/calcuculadora_imc/](https://raphaeljov.github.io/calcuculadora_imc/)
+1. Abra o site clicando no link: [https://raphaeljov.github.io/calculadora_imc/](https://raphaeljov.github.io/calcuculadora_imc/)
 2. Insira sua altura (em metros) e peso (em kg).
 3. Clique em **Calcular** para ver seu IMC e a classificação.
 4. Use o botão **Limpar** para resetar os campos e o resultado.
